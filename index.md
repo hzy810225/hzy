@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+## HZY
 
+　　嗨！我是侯則瑜，這是我在Git上第一個Repository，未來也會將我做的一些有趣的事情分享給大家，像是一個簡單的日記一樣，現在的內容雖然跟廢文差不多，但未來會越來越好的，凡事都有開始的，謝謝。
+<!-- 
 You can use the [editor on GitHub](https://github.com/hzy810225/hzy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -35,3 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
